@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\ACI_monitor\ACI_monitor\bin\Release\ACI_monitor.exe.config
+C:\Users\Administrator\Desktop\ACI_monitor\ACI_monitor\bin\Release\ACI_monitor.exe
+C:\Users\Administrator\Desktop\ACI_monitor\ACI_monitor\bin\Release\ACI_monitor.pdb
+C:\Users\Administrator\Desktop\ACI_monitor\ACI_monitor\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ACI_monitor\ACI_monitor\bin\Release\RestSharp.dll
+C:\Users\Administrator\Desktop\ACI_monitor\ACI_monitor\bin\Release\SnmpSharpNet.dll
+C:\Users\Administrator\Desktop\ACI_monitor\ACI_monitor\bin\Release\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\ACI_monitor\ACI_monitor\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ACI_monitor\ACI_monitor\bin\Release\System.ValueTuple.xml
+C:\Users\Administrator\Desktop\ACI_monitor\ACI_monitor\obj\Release\ACI_monitor.Main.resources
+C:\Users\Administrator\Desktop\ACI_monitor\ACI_monitor\obj\Release\ACI_monitor.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ACI_monitor\ACI_monitor\obj\Release\ACI_monitor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ACI_monitor\ACI_monitor\obj\Release\ACI_monitor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ACI_monitor\ACI_monitor\obj\Release\ACI_monitor.exe
+C:\Users\Administrator\Desktop\ACI_monitor\ACI_monitor\obj\Release\ACI_monitor.pdb
+C:\Users\Administrator\Desktop\ACI_monitor\ACI_monitor\obj\Release\ACI_monitor.csprojResolveAssemblyReference.cache
